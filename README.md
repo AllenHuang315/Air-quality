@@ -19,9 +19,10 @@
  quality and environmental conditions in real-time and the forecast.
  
 ![Assembled device](https://github.com/user-attachments/assets/b90401e6-d13d-4460-95de-060430609c51)
- Fig. 1. Picture of Assembled Device
- storage.
+ 
+ Fig. 1. Picture of Assembled Device storage.
  
 # Oveview
 ![system block diagram](https://github.com/user-attachments/assets/75c73eb9-796a-4364-891f-982452143c06)
+ 
  Fig 2. Overall System Block Diagram
