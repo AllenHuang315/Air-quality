@@ -1,5 +1,5 @@
-# air-quality
-AirSense: A Wearable Air Quality Monitoring Devic
+## air-quality
+# AirSense: A Wearable Air Quality Monitoring Devic
 
  ABSTRACT
  The project is an IoT system using wearable devices as backpack
