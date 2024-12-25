@@ -17,19 +17,11 @@
  to the cloud. The user’s phone will also further process the data
  and display, offering users a comprehensive overview of air
  quality and environmental conditions in real-time and the forecast.
-
-# 1. INTRODUCTION
- Air quality is a critical environmental metric that has a direct
- impact on human health and quality of life. Living or spending
- extended amounts of time in areas with poor air quality can lead
- to various issues such as poor respiratory function, allergies, and
- other long-term health problems such as increased risk of
- respiratory system-related cancers. Traditionally, air quality
- monitoring stations are stationary and provide limited spatial
- resolution. This leads to often misleading or inaccurate
- information as air quality can vary greatly in urban environments.
- For example, areas by busy roads or freeways are much more
- likely to have poor air quality as opposed to an area by a large
- park. Stationary air quality monitoring stations also do not provide
- any information about air quality inside of buildings.
+ 
 ![Assembled device](https://github.com/user-attachments/assets/b90401e6-d13d-4460-95de-060430609c51)
+ Fig. 1. Picture of Assembled Device
+ storage.
+ 
+# Oveview
+![system block diagram](https://github.com/user-attachments/assets/75c73eb9-796a-4364-891f-982452143c06)
+ Fig 2. Overall System Block Diagram
